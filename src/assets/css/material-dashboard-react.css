@@ -133,7 +133,7 @@ h6 {
 }
 
 a {
-  color: #9c27b0;
+  color: #ff383b;
   text-decoration: none;
 }
 
@@ -251,7 +251,7 @@ footer ul li a:hover {
   border-radius: 8px 0 0 8px;
   text-align: center;
   top: 120px;
-  .badge-primary-background-color: #9c27b0;
+  .badge-primary-background-color: #ff383b;
 }
 
 .fixed-plugin .SocialMediaShareButton,
@@ -332,7 +332,7 @@ footer ul li a:hover {
 }
 
 .fixed-plugin .badge-purple {
-  background-color: #9c27b0;
+  background-color: #ff383b;
 }
 
 .fixed-plugin .badge-blue {
